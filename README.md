@@ -91,3 +91,8 @@ Pilih salah satu opsi berikut:
 |![Export/Import Data Karyawan](./screenshots/export-user.jpeg)|![Export/Import Data Karyawan + Preview](./screenshots/export-user-preview.jpeg)|
 | Export/Import Data Absensi & User | Export/Import Data Absensi & User + Preview Data |
 |![Export/Import Data Absensi](./screenshots/export-absensi.jpeg)|![Export/Import Data Absensi + Preview](./screenshots/export-absensi-preview.png)|
+
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+© 2025 Khairinisya Ani Atmaja. All rights reserved.
