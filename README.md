@@ -6,14 +6,14 @@
   <img src="https://github.com/user-attachments/assets/f30eae02-e20b-4e65-9d95-5ac4161de224" alt="Logo 2" height="150">
 </div>
 
-
+***
 ```
 NAMA        : Khairinisya Ani Atmaja
 NIM         : 312310365
 KELAS       : TI.23.A4
 MATAKULIAH  : Pemrograman Web 2
 ```
-
+***
 ![Aplikasi Web Absensi Karyawan QR Code GPS](./screenshots/hero.png)
 
 Aplikasi web absensi karyawan menggunakan QR Code dan GPS.
