@@ -1,9 +1,9 @@
 # Aplikasi Web Absensi Karyawan QR Code GPS
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/598ee07c-9d6b-4437-9027-9c5a28552b60" alt="Logo 1" height="80">
+  <img src="https://github.com/user-attachments/assets/598ee07c-9d6b-4437-9027-9c5a28552b60" alt="Logo 1" height="150">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/f30eae02-e20b-4e65-9d95-5ac4161de224" alt="Logo 2" height="80">
+  <img src="https://github.com/user-attachments/assets/f30eae02-e20b-4e65-9d95-5ac4161de224" alt="Logo 2" height="150">
 </div>
 
 
