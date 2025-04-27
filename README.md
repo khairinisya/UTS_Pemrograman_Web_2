@@ -1,5 +1,12 @@
 # Aplikasi Web Absensi Karyawan QR Code GPS
 
+```
+NAMA        : Khairinisya Ani Atmaja
+NIM         : 312310365
+KELAS       : TI.23.A4
+MATAKULIAH  : Pemrograman Web2
+```
+
 ![Aplikasi Web Absensi Karyawan QR Code GPS](./screenshots/hero.png)
 
 Aplikasi web absensi karyawan menggunakan QR Code dan GPS.
